@@ -2,7 +2,7 @@
 ![](assets/preview-light.png#gh-light-mode-only)
 ![](assets/preview-dark.png#gh-dark-mode-only)
 
-> 本项目基于 [chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) 开发。
+> 本项目基于 Astro + SolidJS 开发。
 
 在线预览:
 
@@ -113,11 +113,6 @@ API Key 由我自己免费提供，请不要滥用，不提供长期服务，请
 - 尽可能去优化已有的 Prompts，而不是重复添加。
 - 添加到结尾，我会定期整理。
 
-## 赞赏
-
-如果本项目对你有所帮助，可以给小猫买点零食，但不接受任何付费功能请求。
-
-![](./assets/reward.gif)
 
 ## License
 [MIT](./LICENSE)
